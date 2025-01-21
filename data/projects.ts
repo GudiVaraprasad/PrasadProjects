@@ -239,5 +239,13 @@ export const projects: Project[] = [
     tags: ["AI/ML"],
     url: "https://github.com/GudiVaraprasad/ResuMailer",
     image: "https://www.abstraktmg.com/wp-content/uploads/2024/05/image-1-1.png"
+  },
+  {
+    id: 30,
+    title: "Fix Tracker",
+    description: "A full-stack, production-grade issue tracker built with Next.js, Tailwind, Radix UI, Prisma, and MySQL",
+    tags: ["Javascript"],
+    url: "https://github.com/GudiVaraprasad/fix-tracker",
+    image: "https://www.projectcubicle.com/wp-content/uploads/2023/08/bug-tracking-1.png"
   }
 ];
