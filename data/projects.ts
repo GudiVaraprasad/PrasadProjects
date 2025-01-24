@@ -247,5 +247,13 @@ export const projects: Project[] = [
     tags: ["Javascript"],
     url: "https://github.com/GudiVaraprasad/fix-tracker",
     image: "https://www.projectcubicle.com/wp-content/uploads/2023/08/bug-tracking-1.png"
+  },
+  {
+    id: 31,
+    title: "Wikimedia Microservices",
+    description: "A producer-consumer pipeline using Spring boot to ingest real-time Wikimedia events using Kafka topics and save to SQL database",
+    tags: ["Java"],
+    url: "https://github.com/GudiVaraprasad/Wikimedia-Kafka-Springboot",
+    image: "https://refactorfirst.com/static/images/2021/spring-boot-kafka-communication/cover.jpg"
   }
 ];
