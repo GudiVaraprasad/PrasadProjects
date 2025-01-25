@@ -255,5 +255,13 @@ export const projects: Project[] = [
     tags: ["Java"],
     url: "https://github.com/GudiVaraprasad/Wikimedia-Kafka-Springboot",
     image: "https://refactorfirst.com/static/images/2021/spring-boot-kafka-communication/cover.jpg"
+  },
+  {
+    id: 32,
+    title: "Backend Mimic for Ride-Sharing Platforms using Microservices",
+    description: "A scalable backend system showcasing service communication, API gateway implementation, and database management using a microservices architecture with Express.js and MongoDB",
+    tags: ["Javascript"],
+    url: "https://github.com/GudiVaraprasad/Robust-Backend-Microservices",
+    image: "https://www.addevice.io/storage/ckeditor/uploads/images/6565c94bac24f_how.much.does.it.cost.to.develop.a.ride.sharing.app.1920.1080.png"
   }
 ];
